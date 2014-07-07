@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<devices>
+    <bathroom>
+        <device id = "1">
+            <type ison = "true">Hairdryer</type>
+            <power>100</power>
+            <weight>1</weight>
+            <cost>60</cost>
+        </device>
+        <device id = "4">
+            <type ison = "true">Hairdryer</type>
+            <power>150</power>
+            <weight>2</weight>
+            <cost>90</cost>
+        </device>
+    </bathroom>
+    <kitchen>
+        <device id = "2">
+            <type ison = "true">Fridge</type>
+            <power>200</power>
+            <weight>40</weight>
+            <cost>1000</cost>
+        </device>
+        <device id = "3">
+            <type ison = "true">Oven</type>
+            <power>230</power>
+            <weight>20</weight>
+            <cost>800</cost>
+        </device>
+    </kitchen>
+</devices>
